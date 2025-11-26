@@ -8,7 +8,7 @@ Simulasi ini mendemonstrasikan bagaimana perintah kontrol (latency-sensitive) di
 
 ---
 
-## 📋 Fitur Simulasi
+## Fitur Simulasi
 * **Dual-Client Architecture:** Terdiri dari dua program terpisah (Controller & Car Unit) yang berkomunikasi via internet.
 * **Real-time IoT Communication:** Menggunakan protokol MQTT (Message Queuing Telemetry Transport) untuk pengiriman data yang ringan dan cepat.
 * **Visual Feedback:** Visualisasi pergerakan mobil menggunakan library `pygame`.
@@ -16,7 +16,7 @@ Simulasi ini mendemonstrasikan bagaimana perintah kontrol (latency-sensitive) di
 
 ---
 
-## 🛠️ Prasyarat (Requirements)
+## Prasyarat (Requirements)
 
 Pastikan Anda memiliki:
 * **Python 3.x** (Disarankan Python 3.10 ke atas)
@@ -28,7 +28,7 @@ Pastikan Anda memiliki:
 
 ---
 
-## 🚀 Cara Instalasi
+## Cara Instalasi
 
 1.  **Clone Repositori ini**
     ```bash
@@ -55,7 +55,7 @@ Pastikan Anda memiliki:
 
 ---
 
-## ▶️ Cara Menjalankan (PENTING)
+## Cara Menjalankan (PENTING)
 
 Karena ini adalah simulasi sistem IoT, Anda harus menjalankan **DUA Terminal** secara bersamaan.
 
